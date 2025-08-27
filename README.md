@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m an AI/ML Engineer who’s always curious and constantly learning 🤓.  <br>I love exploring machine learning, deep learning, and data-driven projects while picking up new skills along the way 🚀.  <br>For me, every challenge is just another chance to learn (and probably break a few things before fixing them 😅).  <br><br>🤝 Ask Me About<br>- Machine learning & deep learning basics  <br>- Data science and analytics  <br>- My journey of learning AI one project at a time  <br><br>⚡ Fun Fact<br>I get way too excited when my code runs without errors on the first try 🎉 (rare, but it happens!).
+Hey there! I’m an AI/ML Engineer who’s always curious and constantly learning 🤓. <br>I love diving into machine learning, deep learning, and data-driven projects while picking up new skills along the way 🚀. <br>When I’m not coding, you’ll probably find me at the gym lifting heavy things just for fun 🏋️. <br><br>🤝 Ask Me About<br>- Machine learning & deep learning basics  <br>- Data science and analytics  <br>- My journey of learning AI one project at a time  <br><br>⚡ Fun Fact<br>I celebrate bug fixes the same way I celebrate hitting a new PR at the gym — with a big smile and way too much energy 🎉.
 
 
 ## 🌐 Socials:
