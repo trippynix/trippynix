@@ -1,6 +1,29 @@
-# 💫 About Me:
-Hey there! I’m an AI/ML Engineer who’s always curious and constantly learning 🤓. <br>I love diving into machine learning, deep learning, and data-driven projects while picking up new skills along the way 🚀. <br>When I’m not coding, you’ll probably find me at the gym lifting heavy things just for fun 🏋️. <br><br>🤝 Ask Me About<br>- Machine learning & deep learning basics  <br>- Data science and analytics  <br>- My journey of learning AI one project at a time  <br><br>⚡ Fun Fact<br>I celebrate bug fixes the same way I celebrate hitting a new PR at the gym — with a big smile and way too much energy 🎉.
-![ITS A HAMSTER](https://raw.githubusercontent.com/trippynix/trippynix/main/giphy.gif)
+<div>
+<table>
+  <tr>
+    <td width="70%">
+      <h1>💫 About Me:</h1>
+      <p>
+        Hey there! I’m an AI/ML Engineer who’s always curious and constantly learning 🤓.<br>
+        I love diving into machine learning, deep learning, and data-driven projects while picking up new skills along the way 🚀.<br>
+        When I’m not coding, you’ll probably find me at the gym lifting heavy things just for fun 🏋️.<br><br>
+
+  🤝 <b>Ask Me About</b><br>
+        - Machine learning & deep learning basics <br>
+        - Data science and analytics <br>
+        - My journey of learning AI one project at a time <br><br>
+      ⚡ <b>Fun Fact</b><br>
+        I celebrate bug fixes the same way I celebrate hitting a new PR at the gym — 
+        with a big smile and way too much energy 🎉.
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/trippynix/trippynix/main/giphy.gif" width="200" alt="ITS A HAMSTER"/><br>
+      <sub>HEHEHAWHAW 🐹</sub>
+    </td>
+  </tr>
+</table>
+
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=trippynix.trippynix)
 
