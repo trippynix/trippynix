@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey there! I’m an AI/ML Engineer who’s always curious and constantly learning 🤓. <br>I love diving into machine learning, deep learning, and data-driven projects while picking up new skills along the way 🚀. <br>When I’m not coding, you’ll probably find me at the gym lifting heavy things just for fun 🏋️. <br><br>🤝 Ask Me About<br>- Machine learning & deep learning basics  <br>- Data science and analytics  <br>- My journey of learning AI one project at a time  <br><br>⚡ Fun Fact<br>I celebrate bug fixes the same way I celebrate hitting a new PR at the gym — with a big smile and way too much energy 🎉.
-<img align="right" alt="F1 Celebration" width="400" src="(https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydjVlbjBuZTM1aG0xbWppcTlqZTQyZWJvcDY3dHZ5YnY4MWd3Zno0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lOqNS2HUyN8OJV0CuF/giphy.gif)">
+<img align="right" alt="F1 Celebration" width="400" src="[https://github.com/trippynix/trippynix/blob/main/giphy.gif]">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=trippynix.trippynix)
 
